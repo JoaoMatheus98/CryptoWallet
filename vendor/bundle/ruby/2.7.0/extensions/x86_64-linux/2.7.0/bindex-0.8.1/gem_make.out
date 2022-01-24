@@ -1,0 +1,15 @@
+current directory: /home/951549019/Documentos/CryptoWallet/crypto_wallet/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/home/951549019/.rbenv/versions/2.7.4/bin/ruby -I /home/951549019/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20220106-11598-1uqzhn7.rb extconf.rb
+creating Makefile
+
+current directory: /home/951549019/Documentos/CryptoWallet/crypto_wallet/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/951549019/Documentos/CryptoWallet/crypto_wallet/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/951549019/Documentos/CryptoWallet/crypto_wallet/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20220106-11598-1f88otx/skiptrace/internal

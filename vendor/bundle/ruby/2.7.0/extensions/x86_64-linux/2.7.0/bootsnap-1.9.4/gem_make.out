@@ -1,0 +1,15 @@
+current directory: /home/951549019/Documentos/CryptoWallet/CryptoWallet-main/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.4/ext/bootsnap
+/home/951549019/.rbenv/versions/2.7.4/bin/ruby -I /home/951549019/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20220124-8736-q21gfe.rb extconf.rb
+creating Makefile
+
+current directory: /home/951549019/Documentos/CryptoWallet/CryptoWallet-main/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/951549019/Documentos/CryptoWallet/CryptoWallet-main/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/951549019/Documentos/CryptoWallet/CryptoWallet-main/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20220124-8736-18fwn8o/bootsnap

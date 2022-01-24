@@ -1,0 +1,16 @@
+<p>
+    <%= link_to 'Português', root_path(locale: 'pt-BR')%>
+</p>
+<p>
+    <%= link_to 'English', root_path(locale: 'en')%>
+</p>
+<h1>Seja bem vindo!</h1>
+<p>O idioma utilizada nessa aplicação é: <%= t('actual_locale') %> </p>
+<p>Data: <%= I18n.l(Date.today) %></p>
+<p> <%= t('hello')%> </p>
+
+<%= render "menu"%>
+
+<p>
+    Voce esta em ambiente de <%= ambiente_rails %>
+</p>
