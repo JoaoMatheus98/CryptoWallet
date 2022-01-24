@@ -1,0 +1,17 @@
+current directory: /home/951549019/Documentos/CryptoWallet/crypto_wallet/vendor/bundle/ruby/2.7.0/gems/duktape-2.6.0.0/ext/duktape
+/home/951549019/.rbenv/versions/2.7.4/bin/ruby -I /home/951549019/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20220106-11598-15a7dll.rb extconf.rb
+checking for rb_sym2str()... yes
+creating Makefile
+
+current directory: /home/951549019/Documentos/CryptoWallet/crypto_wallet/vendor/bundle/ruby/2.7.0/gems/duktape-2.6.0.0/ext/duktape
+make "DESTDIR=" clean
+
+current directory: /home/951549019/Documentos/CryptoWallet/crypto_wallet/vendor/bundle/ruby/2.7.0/gems/duktape-2.6.0.0/ext/duktape
+make "DESTDIR="
+compiling duktape.c
+compiling duktape_ext.c
+linking shared-object duktape_ext.so
+
+current directory: /home/951549019/Documentos/CryptoWallet/crypto_wallet/vendor/bundle/ruby/2.7.0/gems/duktape-2.6.0.0/ext/duktape
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 duktape_ext.so ./.gem.20220106-11598-1uuo1rl
