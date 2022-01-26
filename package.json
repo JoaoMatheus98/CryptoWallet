@@ -1,5 +1,10 @@
 {
   "name": "crypto_wallet",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JoaoMatheus98/CryptoWallet.git",
+  "author": "Joao Matheus",
+  "license": "MIT"
 }
